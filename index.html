@@ -284,9 +284,7 @@
           </p>
         </div>
 
-        <form class="application-form" name="iam-application" method="POST" data-netlify="true" action="/thank-you.html">
-          <input type="hidden" name="form-name" value="iam-application" />
-
+        <form class="application-form" id="iam-application" name="iam-application">
           <label>
             Nome e cognome
             <input type="text" name="name" placeholder="Il tuo nome" required />
@@ -341,6 +339,7 @@
           </label>
 
           <button class="btn btn-primary full" type="submit">Send Application</button>
+          <p class="form-disclaimer">Il form aprirà la tua email con la candidatura già compilata.</p>
         </form>
       </div>
     </section>
