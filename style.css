@@ -142,13 +142,13 @@ h3 { font-size: 1.18rem; letter-spacing: -0.02em; }
 .brand {
   display: flex;
   align-items: center;
-  width: 80px;
+  width: 115px;
   height: 38px;
   overflow: hidden;
 }
 
 .brand img {
-  width: 80px;
+  width: 115px;
   height: 38px;
   object-fit: cover;
   object-position: center 42%;
