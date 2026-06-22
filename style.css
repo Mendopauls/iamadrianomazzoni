@@ -142,14 +142,14 @@ h3 { font-size: 1.18rem; letter-spacing: -0.02em; }
 .brand {
   display: flex;
   align-items: center;
-  width: 168px;
-  height: 56px;
+  width: 115px;
+  height: 38px;
   overflow: hidden;
 }
 
 .brand img {
-  width: 168px;
-  height: 56px;
+  width: 115px;
+  height: 38px;
   object-fit: cover;
   object-position: center 42%;
   filter: contrast(1.04) saturate(1.05);
@@ -685,14 +685,14 @@ textarea { resize: vertical; }
   }
 
   .brand {
-    width: 130px;
-    height: 48px;
-  }
+  width: 95px;
+  height: 34px;
+}
 
-  .brand img {
-    width: 130px;
-    height: 48px;
-  }
+.brand img {
+  width: 95px;
+  height: 34px;
+}
 
   .main-nav { inset: 74px 0 0 0; }
 
