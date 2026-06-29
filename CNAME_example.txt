@@ -1,0 +1,2 @@
+Quando avrai il dominio definitivo, rinomina questo file in CNAME e inserisci solo il dominio, ad esempio:
+iamadrianomazzoni.com
